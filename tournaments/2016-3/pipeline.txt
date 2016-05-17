@@ -1,0 +1,24 @@
+### Numerai Pipeline ##
+
+**Important: record which feature set is being used at all stages through the pipeline**
+
+--- Feature Generation ---
+- Generate new features from standard features
+- Save multiple version in pickle files (with description)
+
+--- Feature Selection ---
+- Find most important features from the pickle files
+
+--- 1. Clfs blended together (no NN) ---
+-A. Take both individual clf preds and blended clf preds (save df)
+-B. Feed blended preds to - 1. one classifier, save preds
+                          - 2. multiple clfs then repeat step A & B
+
+--- 2. DPP models (4 or 5 of them) ---
+- Blend each model over multiple iterations
+
+--- 3. CV calculation ---
+- For 1 and 2 calculate logloss on validation set
+
+--- 4. Weighted blend ---
+- Create weights based of performance in 3 and linearly blend 1 and 2 (all predictions) 

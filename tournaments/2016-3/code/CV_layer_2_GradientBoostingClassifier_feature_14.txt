@@ -1,0 +1,10 @@
+GradientBoostingClassifier(init=None, learning_rate=0.01, loss='exponential',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.8, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69227 
+ 

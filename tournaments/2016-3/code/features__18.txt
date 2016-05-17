@@ -1,0 +1,14 @@
+combinations1 = False
+stats1 = True
+createVerticalFeatures = False
+blended_preds = False
+gen_polys1 = False
+firDiff = False
+secDiff = False
+combinations2 = False
+stats2 = False
+gen_polys2 = True
+removeUseless = False
+goldenFeatures = False
+Scaling = False
+Log1p = False

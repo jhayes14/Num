@@ -1,0 +1,4 @@
+<keras.models.Sequential object at 0x129a2f650>
+pca = False
+Log Loss on Validation set: 0.69182 
+ 

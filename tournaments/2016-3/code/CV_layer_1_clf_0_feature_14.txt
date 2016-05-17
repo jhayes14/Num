@@ -1,0 +1,694 @@
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = False
+useOldfeatures = True
+Log Loss on Validation set: 0.69209 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = False
+useOldfeatures = True
+Log Loss on Validation set: 0.69209 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69211 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69208 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69208 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69215 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69215 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69208 
+ 
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69208 
+ 
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=10, p=2,
+           weights='uniform')
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.78969 
+ 
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=20, p=2,
+           weights='uniform')
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.72056 
+ 
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=30, p=2,
+           weights='uniform')
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.70975 
+ 
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=50, p=2,
+           weights='uniform')
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.70246 
+ 
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=100, p=2,
+           weights='uniform')
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69669 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=-1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.78483 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.81089 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=1000, n_jobs=-1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.78418 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=-1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.79118 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.78456 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='log2', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.78456 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features=0.33, max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.78456 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='entropy',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.78319 
+ 
+AdaBoostClassifier(algorithm='SAMME',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=1.0, n_estimators=50, random_state=None)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69284 
+ 
+AdaBoostClassifier(algorithm='SAMME.R',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=1.0, n_estimators=50, random_state=None)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69313 
+ 
+AdaBoostClassifier(algorithm='SAMME.R',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=1.0, n_estimators=500, random_state=None)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69314 
+ 
+AdaBoostClassifier(algorithm='SAMME.R',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=0.05, n_estimators=500, random_state=1)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69304 
+ 
+AdaBoostClassifier(algorithm='SAMME',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=0.05, n_estimators=500, random_state=1)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69284 
+ 
+AdaBoostClassifier(algorithm='SAMME',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=0.05, n_estimators=50, random_state=1)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69271 
+ 
+AdaBoostClassifier(algorithm='SAMME',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=0.05, n_estimators=10, random_state=1)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69262 
+ 
+AdaBoostClassifier(algorithm='SAMME',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=0.05, n_estimators=100, random_state=1)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69274 
+ 
+AdaBoostClassifier(algorithm='SAMME',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=0.5, n_estimators=50, random_state=1)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69283 
+ 
+AdaBoostClassifier(algorithm='SAMME',
+          base_estimator=DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=None, splitter='best'),
+          learning_rate=0.01, n_estimators=50, random_state=1)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69263 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=None, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=None, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.87131 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=None, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=-1,
+           oob_score=False, random_state=None, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.81778 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=6, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69196 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=6, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=500, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69206 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=6, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69225 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=10, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69316 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=4, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69208 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=1, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69242 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=6, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=5,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69223 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=6, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69225 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=6, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=3,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69224 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=6, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69225 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=6, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=20,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69227 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=6, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=10,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69227 
+ 
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=6, max_features='auto', max_leaf_nodes=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69225 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=6, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69197 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=10, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69255 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=6, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=5,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69197 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=6, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=30,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69203 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=6, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=300,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69202 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=6, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=5, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69204 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=6, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=50, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69207 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='gini',
+           max_depth=6, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=3, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=1, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69203 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='entropy',
+           max_depth=None, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=-1,
+           oob_score=False, random_state=None, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.82866 
+ 
+ExtraTreesClassifier(bootstrap=False, class_weight=None, criterion='entropy',
+           max_depth=6, max_features='auto', max_leaf_nodes=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+           oob_score=False, random_state=None, verbose=0, warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69192 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69352 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69373 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.01, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69246 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.01, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.8, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69256 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.01, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69281 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.01, loss='exponential',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.8, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69257 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.01, loss='exponential',
+              max_depth=3, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.8, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69242 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.01, loss='exponential',
+              max_depth=10, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.8, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69296 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.01, loss='exponential',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.8, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69257 
+ 
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma=0.7, kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=True)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69209 
+ 

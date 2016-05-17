@@ -1,0 +1,14 @@
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+           weights='uniform')
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 1.82823 
+ 
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+           weights='uniform')
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 1.82823 
+ 

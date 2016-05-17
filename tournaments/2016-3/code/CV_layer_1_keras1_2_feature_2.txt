@@ -1,0 +1,14 @@
+<keras.models.Sequential object at 0x11a4fd7d0>
+useOldfeatures = True
+Log Loss on Validation set: 0.69268 
+ 
+<keras.models.Sequential object at 0x119e0f250>
+useOldfeatures = True
+Log Loss on Validation set: 0.69219 
+ 
+<keras.models.Sequential object at 0x119dddc50>
+useOldfeatures = True
+Total params = {'units1': [1024, 512, 200], 'units3': [2048, 1024, 2000], 'units2': [1024, 512, 1000], 'optimizer': ['adadelta', 'SGD', 'RMSprop'], 'learning_rate': [0.2, 0.1, 0.01], 'batch_size': [1000, 5000, 100], 'nb_epochs': [3, 3, 3], 'dropout2': [0.2, 0.4, 0.2], 'dropout1': [0.8, 0.1, 0.3], 'dropout3': [0.5, 0.5, 0.8], 'decay_rate': [1e-06, 1e-05, 0.0001], 'activation': ['relu', 'relu', 'relu'], 'momentum': [0.9, 0.8, 0.5]}
+Params number = 2
+Log Loss on Validation set: 0.69195 
+ 

@@ -1,0 +1,8 @@
+<keras.models.Sequential object at 0x11d42f690>
+useOldfeatures = True
+Log Loss on Validation set: 0.69218 
+ 
+<keras.models.Sequential object at 0x11dac1910>
+useOldfeatures = True
+Log Loss on Validation set: 0.69181 
+ 

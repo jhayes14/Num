@@ -1,0 +1,188 @@
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69393 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69366 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69366 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69366 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69396 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69396 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = False
+useOldfeatures = True
+Log Loss on Validation set: 0.69401 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = False
+useOldfeatures = True
+Log Loss on Validation set: 0.69401 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=10, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=1000,
+              presort='auto', random_state=None, subsample=0.8, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.73058 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=1000,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.71321 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=500,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.70142 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69271 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=10,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69238 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=1, presort='auto',
+              random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69306 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69293 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69426 
+ 
+GradientBoostingClassifier(init=None, learning_rate=0.05, loss='deviance',
+              max_depth=6, max_features=None, max_leaf_nodes=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=0.5, verbose=0,
+              warm_start=False)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69328 
+ 
+XGBClassifier(base_score=0.5, colsample_bylevel=1, colsample_bytree=1,
+       gamma=0, learning_rate=0.05, max_delta_step=0, max_depth=3,
+       min_child_weight=1, missing=None, n_estimators=300, nthread=-1,
+       objective='binary:logistic', reg_alpha=0, reg_lambda=1,
+       scale_pos_weight=1, seed=0, silent=True, subsample=1)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69326 
+ 
+XGBClassifier(base_score=0.5, colsample_bylevel=1, colsample_bytree=1,
+       gamma=0, learning_rate=0.05, max_delta_step=0, max_depth=3,
+       min_child_weight=1, missing=None, n_estimators=300, nthread=-1,
+       objective='binary:logistic', reg_alpha=0, reg_lambda=1,
+       scale_pos_weight=1, seed=0, silent=True, subsample=1)
+pca = True
+useOldfeatures = True
+Log Loss on Validation set: 0.69326 
+ 
